@@ -27,23 +27,23 @@ El objetivo principal es desarrollar, evaluar y comparar modelos de clasificaci�
 
 Este problema es relevante en áreas como:
 
-Interfaces cerebro–computador (BCI)
+  - Interfaces cerebro–computador (BCI)
 
-Sistemas de monitoreo de atención y fatiga
+  - Sistemas de monitoreo de atención y fatiga
 
-Aplicaciones biomédicas de trazado cerebral
+  - Aplicaciones biomédicas de trazado cerebral
 
-Interacción humana con sistemas inteligentes
+  - Interacción humana con sistemas inteligentes
 
 El dataset presenta desafíos típicos en el procesamiento de biosenales, tales como ruido inherente, variabilidad temporal y características altamente correlacionadas. Por ello, el proyecto también incluye:
 
-Preprocesamiento y limpieza de señales EEG
+  - Preprocesamiento y limpieza de señales EEG
 
-Reducción de dimensionalidad y selección de características
+  - Reducción de dimensionalidad y selección de características
 
-Implementación y evaluación de múltiples algoritmos de ML
+  - Implementación y evaluación de múltiples algoritmos de ML
 
-Uso de validación cruzada y métricas estándar para garantizar resultados confiables
+  - Uso de validación cruzada y métricas estándar para garantizar resultados confiables
 
 En conjunto, este proyecto proporciona una línea base sólida para la clasificación del estado ocular a partir de señales EEG y sienta las bases para aplicaciones más avanzadas dentro del ámbito de la neuroingeniería y el aprendizaje automático.
 
