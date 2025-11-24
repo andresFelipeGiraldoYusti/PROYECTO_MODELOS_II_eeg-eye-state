@@ -56,6 +56,12 @@ En conjunto, este proyecto proporciona una línea base sólida para la clasifica
 4. k-Nearest Neighbors (k-NN)
 5. Arboles de decision (RF)
 
+## Para replicar el experimento 
+
+- Para realizar un análisis y exploración preliminar de los datos puede ejecutar en notebook que se encuentra en la ruta [notebooks/exploration/Exploración_y_División_de_datos.ipynb](notebooks/exploration/Exploración_y_División_de_datos.ipynb)
+- Para ejecutar los modelos, obtener los resultados puede ejecutar los notebooks que se encuentras en [notebooks/models](notebooks/models). En estos encontrara la configuración de cada modelo, con las diferentes combinaciones en los parámetros de cada modelo. Se recopilan los resultados y las métricas y se muestran por medio de gráficos e impresión de los resultados como la métrica de precisión. 
+
+
 
 
 
